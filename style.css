@@ -1,0 +1,13 @@
+body {
+text-align: center
+}
+.imgcls {
+height: 150px;
+width: 250px;
+}
+#divcl {
+margin-bottom: 10px;
+}
+#divcls {
+margin-top: 10px
+}
